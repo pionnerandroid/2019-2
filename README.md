@@ -9,7 +9,7 @@
 
 * 1주차
   * 안드로이드 스튜디오 설치
-  * 스터디 사전조사 및 Q&A
+  * 스터디 [사전조사](https://forms.gle/ma3ijk41tKPcZnA59) 및 Q&A
 
 ## Leader
 * Su Yeon Jo (@jopopcorn)
