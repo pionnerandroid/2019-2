@@ -15,7 +15,7 @@
   
 * 2주차
   * View의 속성
-  * Layout, 기본 위젯 다루기
+  * Layout, 기본 위젯 다루기, 이벤트 처리하기(Toast)
   * 계산기 만들기
 
 ## Leader
