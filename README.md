@@ -16,6 +16,9 @@
 * 2주차
   * [View의 속성](https://docs.google.com/presentation/d/1YwKC8zFlozKha6lVOggr1cLycouWQUBrOPcNjWAachM/edit#slide=id.p)
   * Layout, 기본 위젯 다루기, 이벤트 처리하기(Toast)
+  
+* 3주차
+  * 2주차 내용 복습
   * 계산기 만들기
 
 ## Leader
