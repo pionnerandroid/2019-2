@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExCalculator</string>
+    <string name="hintFirstNumber">첫 번째 숫자</string>
+    <string name="hintSecondNumber">두 번째 숫자</string>
+    <string name="textMinus">-</string>
+    <string name="textMultiple">*</string>
+    <string name="textDivide">/</string>
+    <string name="textResult">결과값</string>
+    <string name="textPlus">+</string>
+</resources>
