@@ -22,9 +22,8 @@
   * 계산기 만들기
   
 * 4주차
-  * 안드로이드 4대 컴포넌트
-  * 액티비티의 생명주기
-  * Intent
+  * [액티비티의 생명주기](https://docs.google.com/presentation/d/1u_VyQyamdVBQbUxey3-QBdtoXQM2C3o5NX1in-AJJZs/edit?usp=sharing)
+  * [Intent](https://docs.google.com/presentation/d/1UmbchtPu5odbuj5KeUzes2Qj2MK1PRL6S72JMxXYCCQ/edit?usp=sharing)
 
 ## Leader
 * Su Yeon Jo (@jopopcorn)
