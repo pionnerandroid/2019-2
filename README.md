@@ -25,6 +25,10 @@
   * [액티비티의 생명주기](https://docs.google.com/presentation/d/1u_VyQyamdVBQbUxey3-QBdtoXQM2C3o5NX1in-AJJZs/edit?usp=sharing)
   * [Intent](https://docs.google.com/presentation/d/1UmbchtPu5odbuj5KeUzes2Qj2MK1PRL6S72JMxXYCCQ/edit?usp=sharing)
 
+* 5주차
+  * Toolbar
+  * 위젯 꾸미기 (border)
+  
 ## Leader
 * Su Yeon Jo (@jopopcorn)
 * Email: jopopcorn.dev@gmail.com
