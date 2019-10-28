@@ -29,6 +29,9 @@
   * Toolbar
   * 위젯 꾸미기 (border)
   
+* 6주차
+  * [RecyclerView](https://docs.google.com/presentation/d/1IEdkOAB50DRCwcpWGJWyDt0R_Sqz7fDtbuzzgvAo-b0/edit?usp=sharing)
+  
 ## Leader
 * Su Yeon Jo (@jopopcorn)
 * Email: jopopcorn.dev@gmail.com
