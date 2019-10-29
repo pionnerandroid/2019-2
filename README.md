@@ -31,6 +31,7 @@
   
 * 6주차
   * [RecyclerView](https://docs.google.com/presentation/d/1IEdkOAB50DRCwcpWGJWyDt0R_Sqz7fDtbuzzgvAo-b0/edit?usp=sharing)
+  * [Context](https://docs.google.com/presentation/d/1rRYFalwPx2MBX9Au--xLcHparuBu0qbj2v1nFvLkw-U/edit?usp=sharing)
   
 ## Leader
 * Su Yeon Jo (@jopopcorn)
