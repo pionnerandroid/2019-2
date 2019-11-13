@@ -37,6 +37,10 @@
   * ~~6주차 실습 (RecyclerView) 마무리~~ -> 프로젝트에서 선택 위젯 click event를 추가로 다룰 예정
   * 동아리 앱(PIONEER Android Study App) 기본 화면 구현 (로그인, 회원가입 화면)
   
+* 8주차
+  * 동아리 앱 회원가입 예외처리(아이디 중복 여부, 비밀번호 동일 여부, 빈 칸, etc) 구현, 메인 화면 구현
+  * Firebase 연동
+  
 ## Leader
 * Su Yeon Jo (@jopopcorn)
 * Email: jopopcorn.dev@gmail.com
