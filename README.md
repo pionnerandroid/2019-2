@@ -34,8 +34,8 @@
   * [Context](https://docs.google.com/presentation/d/1rRYFalwPx2MBX9Au--xLcHparuBu0qbj2v1nFvLkw-U/edit?usp=sharing)
   
 * 7주차
-  * 6주차 실습 (RecyclerView) 마무리
-  * 프로젝트 구상 및 Firebase 연동
+  * ~~6주차 실습 (RecyclerView) 마무리~~ -> 프로젝트에서 선택 위젯 click event를 추가로 다룰 예정
+  * 동아리 앱(PIONEER Android Study App) 기본 화면 구현 (로그인, 회원가입 화면)
   
 ## Leader
 * Su Yeon Jo (@jopopcorn)
