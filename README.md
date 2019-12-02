@@ -44,6 +44,9 @@
   * 동아리 앱 회원가입 예외처리(아이디 중복 여부, 비밀번호 동일 여부, 빈 칸, etc) 구현 및 게시글 추가/삭제 구현
   * git 사용법 소개
   
+* 10주차
+  * firebase db로 글 작성 및 게시글 목록 화면에 띄우기 구현
+  
 ## Leader
 * Su Yeon Jo (@jopopcorn)
 * Email: jopopcorn.dev@gmail.com
